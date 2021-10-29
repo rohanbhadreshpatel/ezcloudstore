@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.logout {
+	width: 5%;
+	 float: right;
+	 margin-top: -4.5%;
+}
+
+h2 {
+	margin: 2%;
+}
+
+p {
+	margin: 0 2%;
+}
+
+.logoutbtn {
+  background-color: rgb(255, 153, 0);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+ 
+}
+
+.logoutbtn:hover {
+  opacity: 1;
+}
+
+.uploadFile {
+	width: 100%;
+	margin: 2%
+}
+
+.inputFile {
+	width: 15%;
+    float: left;
+}
+
+.dashboardTable {
+	width: 100%;
+}
+
+.nofiles {
+	text-align: center;
+    padding: 5%;
+}
+
+.dashboardTable {
+	text-align: center;
+	border-collapse: collapse;
+}
+thead {
+	background-color: #C0C0C0; 
+    color: #FFFFFF;
+}
+tbody tr:hover {
+	background-color: #DDDDDD;
+}

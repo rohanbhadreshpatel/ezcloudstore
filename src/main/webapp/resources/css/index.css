@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 100%;
+    height: 500px;
+}
+
+.card{
+	box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+input[type=text], input[type=password] {
+	width: 95%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+	background-color: rgb(255, 153, 0);
+	outline: none;
+}
+
+.hide {
+    display: none; 
+}
+
+.container {
+	width: 100%;
+	height: 100%;
+}	

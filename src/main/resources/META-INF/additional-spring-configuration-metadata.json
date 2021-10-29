@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "aws.s3.endpointUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.endpointUrl'"
+  },
+  {
+    "name": "aws.s3.bucket",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.s3.bucket'"
+  },
+  {
+    "name": "aws.region",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.region'"
+  },
+  {
+    "name": "aws.access.key.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access.key.secret'"
+  },
+  {
+    "name": "aws.access.key.id",
+    "type": "java.lang.String",
+    "description": "A description for 'aws.access.key.id'"
+  }
+]}

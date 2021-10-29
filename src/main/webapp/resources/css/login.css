@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+.loginpage {
+  width:70%;
+  height: 90%;
+  margin: auto;
+}
+
+.socialloginlinks {
+  position: relative;
+  float: left;
+  width: 40%;
+  height: 100%;
+  text-align: center;
+  background-image: url("/resources/images/login.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.socialloginlinks .sociallinks{
+	position: absolute;
+    bottom: 10px;
+    right: 30%;
+}
+
+.loginform {
+  float: left;
+  width: 55%;
+  padding: 1%;
+  margin-top: 7%;
+}
+
+.loginbtn {
+  background-color: rgb(255, 153, 0);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.loginbtn:hover {
+  opacity: 1;
+}
+
+.container p{
+	margin-top: 10%;
+    text-align: center;
+}
