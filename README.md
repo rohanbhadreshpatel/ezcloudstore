@@ -39,7 +39,7 @@ Check out this short video demonstration to see EzCloudStore application in acti
 
 The application is deployed on AWS using the following architecture:
 
-![Architecture Diagram](./ezcloudstore-architecure.png)
+![Architecture Diagram](./ezcloudstore-architecture.png)
 
 ## Tools & Technologies
 
